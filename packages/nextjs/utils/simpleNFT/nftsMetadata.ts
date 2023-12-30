@@ -1,9 +1,9 @@
 const nftsMetadata = [
   {
-    description: "It's actually a bison?",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/buffalo.jpg",
-    name: "Buffalo",
+    description: "Send Vitalik his Zebra!",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/polkadotzebra.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/polkadotzebra.jpg",
+    name: "Ethereal",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -20,10 +20,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "What is it so worried about?",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/zebra.jpg",
-    name: "Zebra",
+    description: "Not food!",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmd8N2USeikeUau9o6TTpbKVkMK5kUN345nsjdqHbayN/pangolin.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmd8N2USeikeUau9o6TTpbKVkMK5kUN345nsjdqHbayN/pangolin.jpg",
+    name: "Pangolin",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -40,10 +40,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "What a horn!",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/rhino.jpg",
-    name: "Rhino",
+    description: "On the prowl.",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmd8N2USeikeUau9o6TTpbKVkMK5kUN345nsjdqHbayN/pangolin1.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmd8N2USeikeUau9o6TTpbKVkMK5kUN345nsjdqHbayN/pangolin1.jpg",
+    name: "Another Pangolin",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -60,10 +60,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "Is that an underbyte?",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/fish.jpg",
-    name: "Fish",
+    description: "Will it always be too soon?",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/nightmareelk.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/nightmareelk.jpg",
+    name: "Nightmare Elk",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -80,10 +80,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "So delicate.",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/flamingo.jpg",
-    name: "Flamingo",
+    description: "Will it scale?",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/pangbabytail.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/pangbabytail.jpg",
+    name: "Baby Tail",
     attributes: [
       {
         trait_type: "BackgroundColor",
@@ -100,10 +100,10 @@ const nftsMetadata = [
     ],
   },
   {
-    description: "Raaaar!",
-    external_url: "https://austingriffith.com/portfolio/paintings/", // <-- this can link to a page for the specific file too
-    image: "https://austingriffith.com/images/paintings/godzilla.jpg",
-    name: "Godzilla",
+    description: "Pangolin",
+    external_url: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/rollingpang.jpg", // <-- this can link to a page for the specific file too
+    image: "https://gateway.pinata.cloud/ipfs/QmNmUnJfh4nTE8kRs3Fy7e4DUW2Ymapa9nW8Y9QpCkrq6R/rollingpang.jpg",
+    name: "Rolly Poly",
     attributes: [
       {
         trait_type: "BackgroundColor",
